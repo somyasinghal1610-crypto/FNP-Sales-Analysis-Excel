@@ -127,14 +127,14 @@ FNP-Sales-Analysis-Excel/
 ├── README.md
 ├── FNP_Sales_Analysis.xlsx
 ├── FNP_Sales_Dashboard.png
+├── FNP_Sales_Analysis.pdf
+├── FNP_Sales_Analysis_Problem_Statement.pdf
 │
 └── FNP_Datasets/
     ├── customers.csv
     ├── orders.csv
     └── products.csv
 ```
-
----
 
 ## 📊 Dashboard Preview
 
@@ -158,4 +158,4 @@ This project demonstrates practical skills in **Excel-based data analysis, visua
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and connect with me on LinkedIn.
+
